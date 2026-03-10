@@ -1,4 +1,5 @@
-# Supervised Learning System – Heart Disease Binary Classification
+# Supervised Learning System –
+Binary Classification
 
 This project demonstrates a supervised learning system that predicts whether a patient has **heart disease** or not, using a **Random Forest Classifier** built with **scikit-learn**.
 
